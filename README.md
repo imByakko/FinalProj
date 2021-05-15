@@ -8,7 +8,8 @@ Members: Borcelis, Jon Neil
          
 Course and Section: CPE106L - B2
 
-
-Sprint 1: Proposal
+TASKS:
+Project Proposal
+Sprint 1: Deliverables
 Sprint 2: Code developing and debugging
 Sprint 3: Final Completed Project
