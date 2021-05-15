@@ -1,0 +1,9 @@
+﻿  No way to resolve conflict between "System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" and "System.Buffers, Version=4.0.2.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51". Choosing "System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" arbitrarily.
+  Consider app.config remapping of assembly "System.Buffers, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51" from Version "4.0.2.0" [C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\System.Buffers.dll] to Version "4.0.3.0" [C:\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\System.Buffers.dll] to solve conflict and get rid of warning.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets(2081,5): warning MSB3276: Found conflicts between different versions of the same dependent assembly. Please set the "AutoGenerateBindingRedirects" property to true in the project file. For more information, see http://go.microsoft.com/fwlink/?LinkId=294190.
+  SchedMaker.cpp
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\SchedMaker.h(249,21): warning C4101: 'e': unreferenced local variable
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\SchedMaker.h(295,21): warning C4101: 'e': unreferenced local variable
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\SchedMaker.h(310,21): warning C4101: 'e': unreferenced local variable
+  SchedMaker.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  BackUpProject.vcxproj -> C:\Users\SettO\source\repos\BackUpProject\Debug\BackUpProject.exe

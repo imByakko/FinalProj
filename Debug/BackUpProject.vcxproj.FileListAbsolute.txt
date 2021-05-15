@@ -1,0 +1,4 @@
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\Debug\BackUpProject.vcxprojAssemblyReference.cache
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\Debug\BackUpProject.SchedMaker.resources
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\Debug\BackUpProject.vcxproj.GenerateResource.cache
+C:\Users\SettO\source\repos\BackUpProject\BackUpProject\Debug\BackUpProject.vcxproj.CopyComplete
